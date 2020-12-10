@@ -17,6 +17,7 @@ const ALLOWED_EXTENSIONS = new Set([
   'map',
   'svg',
   'ttf',
+  'eot',
   'woff',
   'woff2',
 ]);
